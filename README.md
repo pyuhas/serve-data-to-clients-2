@@ -1,7 +1,7 @@
 ## Instructions
 
 HERE IS MY DEPLOYED LINK:
-https://git.heroku.com/shrouded-badlands-30651.git
+https://shrouded-badlands-30651.herokuapp.com/
 
 Copying the data from the included `.csv` dataset:
 
